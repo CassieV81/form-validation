@@ -7,4 +7,5 @@ The purpose of this project is to practice using form validation with JavaScript
 
 ## Live Demo
 
+[Click here to view form](https://cassiev81.github.io/form-validation/)
 
